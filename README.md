@@ -23,11 +23,11 @@ with our team of tecnition this couse will walk you through the begening of prog
 
     Review of the Python programming language that covers general information and cool info about the language.
 
-* [**Lec 01 – Basic syntax**](github.com/Kingdom-of-the-Profound-Cabal/python-course/blob/main/Lec-1.ipynb) 
+* [**Lec 01 – BASIC SYNTAX**](github.com/Kingdom-of-the-Profound-Cabal/python-course/blob/main/Lec-1.ipynb) 
 
     in this lecture we explain the variables, typing operation and condetion with examples.
 
-* [**Lec 02 – Functions & Loops**](github.com/Kingdom-of-the-Profound-Cabal/python-course/blob/main/Lec-2.ipynb) 
+* [**Lec 02 – FUNCTIONS & LOOPS**](github.com/Kingdom-of-the-Profound-Cabal/python-course/blob/main/Lec-2.ipynb) 
 
     in this lecture we explain the functions, decorators, for loop and while loop with examples.
 
@@ -35,10 +35,10 @@ with our team of tecnition this couse will walk you through the begening of prog
 
     in this lecture we explain OOP concepts such as classes & obejts, abstractions and polymorphism with some advanced concepts all examples.
 
-* [**Lec 04 – Documenting**](github.com/Kingdom-of-the-Profound-Cabal/python-course/blob/main/Lec-4.ipynb) 
+* [**Lec 04 – DOCUMENTING**](github.com/Kingdom-of-the-Profound-Cabal/python-course/blob/main/Lec-4.ipynb) 
 
     in this lecture we explain how you can Document your code and make it more clear.
 
-* [**Lec 05 – Error Handling**](github.com/Kingdom-of-the-Profound-Cabal/python-course/blob/main/Lec-5.ipynb) 
+* [**Lec 05 – ERROR HANDLING**](github.com/Kingdom-of-the-Profound-Cabal/python-course/blob/main/Lec-5.ipynb) 
 
     in this lecture we explain how ypu can deal with errors and handle them before it the your code crash and we looked into how you can make your own cudtom error to make it errier to handle.
