@@ -42,3 +42,13 @@ with our team of tecnition this couse will walk you through the begening of prog
 * [**Lec 05 – ERROR HANDLING**](https://github.com/Kingdom-of-the-Profound-Cabal/python-course/blob/main/Lec-5.ipynb) 
 
     in this lecture we explain how ypu can deal with errors and handle them before it the your code crash and we looked into how you can make your own cudtom error to make it errier to handle.
+
+* [**Lec 06 – STANDARD LIBRARIES**](https://github.com/Kingdom-of-the-Profound-Cabal/python-course/blob/main/Lec-6.ipynb) 
+
+    in this lecture we explored some of the Standard Libraries built in with python.
+
+* [**Lec 07 – 3RD PARTY**](https://github.com/Kingdom-of-the-Profound-Cabal/python-course/blob/main/Lec-7.ipynb) 
+
+    in this lecture we explored some of the 3rd party Libraries thet can be used in python, and go through Virtual environment and how to use them.
+
+
