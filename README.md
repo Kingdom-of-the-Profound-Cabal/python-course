@@ -5,7 +5,7 @@ This is the repository for The python Course published by [KPC Team](https://git
 
 ## Requirements and Setup
 
-if you want to learn from yout web browser you can use [Colab](https://colab.research.google.com/?utm_source=scs-index) <br />
+if you want to learn from your web browser you can use [Colab](https://colab.research.google.com/?utm_source=scs-index) <br />
 If you want to use your own pc please follow the instructions below:
 - Install Python on [Windows/Mac/Linux](https://www.python.org/downloads/).
 - Install pip for [Windows/Mac/Linux](https://pip.pypa.io/en/stable/installation/).
