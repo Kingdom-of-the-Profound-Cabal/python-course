@@ -13,7 +13,7 @@ If you want to use your own pc please follow the instructions below:
 
 ## About The course
 
-with our team of tecnition this couse will walk you through the begening of programming journey from the absolute beginning to an expert in python programming language and you'll be ready to chose a path to precede, will teach you all the skills you need to use python in the right way.
+with our team of tecnition this couse will walk you through the beginning of programming journey from the absolute beginner to an expert in python programming language and you'll be ready to chose a path to precede, will teach you all the skills you need to use python in the right way.
 
 
 ## What You Will Learn
